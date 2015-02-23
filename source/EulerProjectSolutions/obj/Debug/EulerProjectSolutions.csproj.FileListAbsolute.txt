@@ -3,3 +3,6 @@ C:\Users\msbrown\Documents\Visual Studio 2013\Projects\EulerProjectSolutions\Eul
 C:\Users\msbrown\Documents\Visual Studio 2013\Projects\EulerProjectSolutions\EulerProjectSolutions\bin\Debug\EulerProjectSolutions.pdb
 C:\Users\msbrown\Documents\Visual Studio 2013\Projects\EulerProjectSolutions\EulerProjectSolutions\obj\Debug\EulerProjectSolutions.exe
 C:\Users\msbrown\Documents\Visual Studio 2013\Projects\EulerProjectSolutions\EulerProjectSolutions\obj\Debug\EulerProjectSolutions.pdb
+C:\dev\git_root\EulerProjectSolutions\source\EulerProjectSolutions\bin\Debug\EulerProjectSolutions.exe.config
+C:\dev\git_root\EulerProjectSolutions\source\EulerProjectSolutions\obj\Debug\EulerProjectSolutions.exe
+C:\dev\git_root\EulerProjectSolutions\source\EulerProjectSolutions\obj\Debug\EulerProjectSolutions.pdb
