@@ -1,0 +1,5 @@
+C:\Users\msbrown\Documents\Visual Studio 2013\Projects\EulerProjectSolutions\EulerProjectSolutions\bin\Debug\EulerProjectSolutions.exe.config
+C:\Users\msbrown\Documents\Visual Studio 2013\Projects\EulerProjectSolutions\EulerProjectSolutions\bin\Debug\EulerProjectSolutions.exe
+C:\Users\msbrown\Documents\Visual Studio 2013\Projects\EulerProjectSolutions\EulerProjectSolutions\bin\Debug\EulerProjectSolutions.pdb
+C:\Users\msbrown\Documents\Visual Studio 2013\Projects\EulerProjectSolutions\EulerProjectSolutions\obj\Debug\EulerProjectSolutions.exe
+C:\Users\msbrown\Documents\Visual Studio 2013\Projects\EulerProjectSolutions\EulerProjectSolutions\obj\Debug\EulerProjectSolutions.pdb
